@@ -11,13 +11,13 @@ function Landing() {
                 <br></br>
                 <h1>Juan Felipe Silva do Amarante</h1>
                 <div className="about">
-                    <h3>Gerente de projetos
+                    <h3>Tecnólogo em Ciências de Dados
                     <br></br>
-                    Coordenador de equipe de analistas
+                    Analista Protheus
                     <br></br>
-                    Analista de dados
+                    Desenvolvedor SQL
                     <br></br>
-                    Desenvolvedor POWER BI</h3>
+                    Desenvolvedor Power BI</h3>
                     <br></br>
                 </div>
                 <a href="mailto:juanamarant@outlook.com">Contate-me</a>
@@ -30,23 +30,22 @@ function Landing() {
                 <div id="box">
                     <section id="info">
                         <div className="card">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sollicitudin et nisl sed eleifend. Pellentesque ac ultricies sapien. Mauris maximus tempus auctor. Integer turpis nibh, pellentesque eu velit vitae, feugiat lacinia velit. Nullam sed turpis ut turpis feugiat commodo. Integer et posuere turpis, in porta diam. Morbi eget suscipit nibh, scelerisque volutpat purus. Curabitur tristique ligula eget consectetur tincidunt. Integer et condimentum tellus. Suspendisse non laoreet dui. Maecenas sit amet sagittis odio, sit amet viverra velit. </p>
+                            <p>Especialista em pesquisa analítica na área de materiais e financeiro.<br></br>Atuando a 8 anos do sitema PROTHEUS e 3 anos no Power BI. </p>
                         </div>
                         <div className="card">
-                            <h1>Gerente de Projetos</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sollicitudin et nisl sed eleifend. Pellentesque ac ultricies sapien. Mauris maximus tempus auctor. Integer turpis nibh, pellentesque eu velit vitae, feugiat lacinia velit. Nullam sed turpis ut turpis feugiat commodo. Integer et posuere turpis, in porta diam. Morbi eget suscipit nibh, scelerisque volutpat purus. Curabitur tristique ligula eget consectetur tincidunt. Integer et condimentum tellus. Suspendisse non laoreet dui. Maecenas sit amet sagittis odio, sit amet viverra velit. </p>
+                            <h1>Protheus</h1>
+                            <p>Módulos; PCP, ESTOQUE CUSTOS, GESTÃO DE CONTRATOS, FATURAMENTO e COMPRAS.</p>
                         </div>
                         <div className="card">
-                            <h1>Coordenador de Equipe de Analistas</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sollicitudin et nisl sed eleifend. Pellentesque ac ultricies sapien. Mauris maximus tempus auctor. Integer turpis nibh, pellentesque eu velit vitae, feugiat lacinia velit. Nullam sed turpis ut turpis feugiat commodo. Integer et posuere turpis, in porta diam. Morbi eget suscipit nibh, scelerisque volutpat purus. Curabitur tristique ligula eget consectetur tincidunt. Integer et condimentum tellus. Suspendisse non laoreet dui. Maecenas sit amet sagittis odio, sit amet viverra velit. </p>
+                            <h1>SQL</h1>
+                            <p>Desenvolvimento de Views e Procedures.</p>
                         </div>
                         <div className="card">
-                            <h1>Analista de Dados</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sollicitudin et nisl sed eleifend. Pellentesque ac ultricies sapien. Mauris maximus tempus auctor. Integer turpis nibh, pellentesque eu velit vitae, feugiat lacinia velit. Nullam sed turpis ut turpis feugiat commodo. Integer et posuere turpis, in porta diam. Morbi eget suscipit nibh, scelerisque volutpat purus. Curabitur tristique ligula eget consectetur tincidunt. Integer et condimentum tellus. Suspendisse non laoreet dui. Maecenas sit amet sagittis odio, sit amet viverra velit. </p>
+                            <h1>Power BI</h1>
+                            <p>Desenvolvimento de BI's financeiros, materiais e custos.</p>
                         </div>
-                        <div className="card">
-                            <h1>Desenvolvedor Power BI</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sollicitudin et nisl sed eleifend. Pellentesque ac ultricies sapien. Mauris maximus tempus auctor. Integer turpis nibh, pellentesque eu velit vitae, feugiat lacinia velit. Nullam sed turpis ut turpis feugiat commodo. Integer et posuere turpis, in porta diam. Morbi eget suscipit nibh, scelerisque volutpat purus. Curabitur tristique ligula eget consectetur tincidunt. Integer et condimentum tellus. Suspendisse non laoreet dui. Maecenas sit amet sagittis odio, sit amet viverra velit. </p>
+                        <div className="tech-card">
+                            
                         </div>
                     </section>
                 </div>
