@@ -30,24 +30,34 @@ function Landing() {
                 <div id="box">
                     <section id="info">
                         <div className="card">
+                            <h1>Sobre mim</h1>
+                            <br></br>
                             <p>Especialista em pesquisa analítica na área de materiais e financeiro.<br></br>Atuando a 8 anos do sitema PROTHEUS e 3 anos no Power BI. </p>
                         </div>
                         <div className="card">
                             <h1>Protheus</h1>
+                            <br></br>
                             <p>Módulos; PCP, ESTOQUE CUSTOS, GESTÃO DE CONTRATOS, FATURAMENTO e COMPRAS.</p>
                         </div>
                         <div className="card">
                             <h1>SQL</h1>
+                            <br></br>
                             <p>Desenvolvimento de Views e Procedures.</p>
                         </div>
                         <div className="card">
                             <h1>Power BI</h1>
+                            <br></br>
                             <p>Desenvolvimento de BI's financeiros, materiais e custos.</p>
                         </div>
-                        <div className="tech-card">
-                            
-                        </div>
                     </section>
+                    <br></br>
+                    <div id="box-tech">
+                        <section id="tech-info">
+                            <div>
+                                <h1>Algumas tecnologias utilizadas em serviços...</h1>
+                            </div>
+                        </section>
+                    </div>
                 </div>
             </div>
             <div id="end">
