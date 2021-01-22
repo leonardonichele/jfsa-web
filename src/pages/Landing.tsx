@@ -2,6 +2,7 @@ import React from 'react';
 import '../styles/landing.css';
 import logoDataScience from '../images/science.png';
 import LinkedIn from '../images/linkedin.png';
+import technology from '../images/tech.png';
 
 function Landing() {
     return (
@@ -30,7 +31,7 @@ function Landing() {
                 <div id="box">
                     <section id="info">
                         <div className="card">
-                            <h1>Sobre mim</h1>
+                            <h1>Juan Felipe Silva do Amarante</h1>
                             <br></br>
                             <p>Especialista em pesquisa analítica na área de materiais e financeiro.<br></br>Atuando a 8 anos do sitema PROTHEUS e 3 anos no Power BI. </p>
                         </div>
@@ -51,10 +52,13 @@ function Landing() {
                         </div>
                     </section>
                     <br></br>
+                    <br></br>
                     <div id="box-tech">
                         <section id="tech-info">
                             <div>
                                 <h1>Algumas tecnologias utilizadas em serviços...</h1>
+                                <br></br>
+                                <img src={technology} alt='technology'/>
                             </div>
                         </section>
                     </div>

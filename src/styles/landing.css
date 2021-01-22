@@ -67,11 +67,11 @@
 }
 
 #mid h1, h2 {
-    color: white;
+    color: black;
     text-align: center;
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
 }
 
 #info {
@@ -110,6 +110,10 @@
     font-size: 25px;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+}
+
+#tech-info img {
+    width: 800px;
 }
 
 /* END ==========================================*/
