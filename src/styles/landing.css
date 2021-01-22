@@ -87,23 +87,29 @@
 #info h1, h2 {
     color: white;
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    font-size: 48px;
+    font-size: 40px;
 }
 
 #info .card {
-    padding: 25px;
+    padding: 20px;
     background-color: rgba(31, 31, 53, 1);
-    width: 250px;
-    height: 220px;
+    height:var(--h);
+    width:var(--h);
     border-radius: 28px;
     border-style: solid;
     border-color: black;
     color: white;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 5px;
     flex: 1 1 auto;
+}
+
+#info p {
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }
 
 /* END ==========================================*/
