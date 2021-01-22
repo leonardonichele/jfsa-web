@@ -31,9 +31,9 @@ function Landing() {
                 <div id="box">
                     <section id="info">
                         <div className="card">
-                            <h1>Juan Felipe Silva do Amarante</h1>
+                            <h1>Juan Amarante</h1>
                             <br></br>
-                            <p>Especialista em pesquisa analítica na área de materiais e financeiro.<br></br>Atuando a 8 anos do sitema PROTHEUS e 3 anos no Power BI. </p>
+                            <p>Especialista em pesquisa analítica na área de materiais e financeiro.<br></br>Atuando a 8 anos no sitema PROTHEUS e 3 anos no Power BI. </p>
                         </div>
                         <div className="card">
                             <h1>Protheus</h1>
