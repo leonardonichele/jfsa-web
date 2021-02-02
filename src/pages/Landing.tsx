@@ -2,7 +2,10 @@ import React from 'react';
 import '../styles/landing.css';
 import logoDataScience from '../images/science.png';
 import LinkedIn from '../images/linkedin.png';
-import technology from '../images/tech.png';
+import sql from '../images/sql.png';
+import powerbi from '../images/powerbi.png';
+import protheus from '../images/protheus.png';
+import azure from '../images/azure.png';
 
 function Landing() {
     return (
@@ -28,6 +31,7 @@ function Landing() {
             </div>
             <div id="mid">
                 <h1>Prazer em conhecer, aqui está um pouco sobre mim...</h1>
+                <br></br>
                 <div id="box">
                     <section id="info">
                         <div className="card">
@@ -51,17 +55,17 @@ function Landing() {
                             <p>Desenvolvimento de BI's financeiros, materiais e custos.</p>
                         </div>
                     </section>
-                    <br></br>
-                    <br></br>
-                    <div id="box-tech">
-                        <section id="tech-info">
-                            <div>
-                                <h1>Algumas tecnologias utilizadas em serviços...</h1>
-                                <br></br>
-                                <img src={technology} alt='technology'/>
-                            </div>
-                        </section>
-                    </div>
+                </div>
+            </div>
+            <div className="tech">
+                <div className="container">
+                    <h2>Tecnologias</h2>
+                    <section className="techlogo-slider">
+                        <div className="slide"><img src={sql} alt="sql"></img></div>
+                        <div className="slide"><img src={azure} alt="azure"></img></div>
+                        <div className="slide"><img src={powerbi} alt=""></img></div>
+                        <div className="slide"><img src={protheus} alt=""></img></div>
+                    </section>
                 </div>
             </div>
             <div id="end">
