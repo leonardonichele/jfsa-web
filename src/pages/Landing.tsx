@@ -59,7 +59,6 @@ function Landing() {
             </div>
             <div className="tech">
                 <div className="container">
-                    <h2>Tecnologias</h2>
                     <section className="techlogo-slider">
                         <div className="slide"><img src={sql} alt="sql"></img></div>
                         <div className="slide"><img src={azure} alt="azure"></img></div>
