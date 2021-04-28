@@ -167,12 +167,39 @@ hr {
 /* RESPONSIVIDADE */
 @media screen and (max-width: 600px) {
     .column {
-      width: 100%;
+      width: 300px;
       display: block;
       margin-bottom: 20px;
     }
 
     .hero img {
-        width: 500px;
+        width: 280px;
+    }
+
+    .content {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .work h1 {
+        margin-top: 0;
+    }
+    
+    .work img {
+        width: 325px;
+        height: 250px;
+    }
+
+    .knowledge h1 {
+        margin-left: 0;
+    }
+
+    .card {
+        width: 325px;
+        height: 420px;
+    }
+
+    .contact a {
+        font-size: 18px;
     }
 }
